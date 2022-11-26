@@ -199,9 +199,9 @@ Home target
 ## Program:
 <br>
 /*
-Developed by: Anish MJ 
+Developed by: PRANEET S
 <br>
-RegisterNumber:  212221230005
+RegisterNumber:  212221230078
 */
 
  ```python
